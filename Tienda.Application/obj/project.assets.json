@@ -1,11 +1,62 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Tienda.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Tienda.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tienda.Domain.dll": {}
+        }
+      },
+      "Tienda.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Tienda.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tienda.Infrastructure.dll": {}
+        }
+      },
+      "Tienda.Utilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Tienda.Utilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tienda.Utilities.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Tienda.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Tienda.Domain/Tienda.Domain.csproj",
+      "msbuildProject": "../Tienda.Domain/Tienda.Domain.csproj"
+    },
+    "Tienda.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Tienda.Infrastructure/Tienda.Infrastructure.csproj",
+      "msbuildProject": "../Tienda.Infrastructure/Tienda.Infrastructure.csproj"
+    },
+    "Tienda.Utilities/1.0.0": {
+      "type": "project",
+      "path": "../Tienda.Utilities/Tienda.Utilities.csproj",
+      "msbuildProject": "../Tienda.Utilities/Tienda.Utilities.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Tienda.Domain >= 1.0.0",
+      "Tienda.Infrastructure >= 1.0.0",
+      "Tienda.Utilities >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Cesaruc\\.nuget\\packages\\": {},
@@ -37,7 +88,17 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Cesaruc\\Desktop\\Proyectos para subir a github\\prueba\\Tienda\\Tienda.Domain\\Tienda.Domain.csproj": {
+              "projectPath": "C:\\Users\\Cesaruc\\Desktop\\Proyectos para subir a github\\prueba\\Tienda\\Tienda.Domain\\Tienda.Domain.csproj"
+            },
+            "C:\\Users\\Cesaruc\\Desktop\\Proyectos para subir a github\\prueba\\Tienda\\Tienda.Infrastructure\\Tienda.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Cesaruc\\Desktop\\Proyectos para subir a github\\prueba\\Tienda\\Tienda.Infrastructure\\Tienda.Infrastructure.csproj"
+            },
+            "C:\\Users\\Cesaruc\\Desktop\\Proyectos para subir a github\\prueba\\Tienda\\Tienda.Utilities\\Tienda.Utilities.csproj": {
+              "projectPath": "C:\\Users\\Cesaruc\\Desktop\\Proyectos para subir a github\\prueba\\Tienda\\Tienda.Utilities\\Tienda.Utilities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -88,6 +88,51 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Tienda.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Tienda.Domain": "1.0.0",
+          "Tienda.Infrastructure": "1.0.0",
+          "Tienda.Utilities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Tienda.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tienda.Application.dll": {}
+        }
+      },
+      "Tienda.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Tienda.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tienda.Domain.dll": {}
+        }
+      },
+      "Tienda.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Tienda.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tienda.Infrastructure.dll": {}
+        }
+      },
+      "Tienda.Utilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Tienda.Utilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tienda.Utilities.dll": {}
+        }
       }
     }
   },
@@ -216,11 +261,34 @@
         "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Tienda.Application/1.0.0": {
+      "type": "project",
+      "path": "../Tienda.Application/Tienda.Application.csproj",
+      "msbuildProject": "../Tienda.Application/Tienda.Application.csproj"
+    },
+    "Tienda.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Tienda.Domain/Tienda.Domain.csproj",
+      "msbuildProject": "../Tienda.Domain/Tienda.Domain.csproj"
+    },
+    "Tienda.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Tienda.Infrastructure/Tienda.Infrastructure.csproj",
+      "msbuildProject": "../Tienda.Infrastructure/Tienda.Infrastructure.csproj"
+    },
+    "Tienda.Utilities/1.0.0": {
+      "type": "project",
+      "path": "../Tienda.Utilities/Tienda.Utilities.csproj",
+      "msbuildProject": "../Tienda.Utilities/Tienda.Utilities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Swashbuckle.AspNetCore >= 6.2.3"
+      "Swashbuckle.AspNetCore >= 6.2.3",
+      "Tienda.Application >= 1.0.0",
+      "Tienda.Infrastructure >= 1.0.0",
+      "Tienda.Utilities >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -253,7 +321,17 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Cesaruc\\Desktop\\Proyectos para subir a github\\prueba\\Tienda\\Tienda.Application\\Tienda.Application.csproj": {
+              "projectPath": "C:\\Users\\Cesaruc\\Desktop\\Proyectos para subir a github\\prueba\\Tienda\\Tienda.Application\\Tienda.Application.csproj"
+            },
+            "C:\\Users\\Cesaruc\\Desktop\\Proyectos para subir a github\\prueba\\Tienda\\Tienda.Infrastructure\\Tienda.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Cesaruc\\Desktop\\Proyectos para subir a github\\prueba\\Tienda\\Tienda.Infrastructure\\Tienda.Infrastructure.csproj"
+            },
+            "C:\\Users\\Cesaruc\\Desktop\\Proyectos para subir a github\\prueba\\Tienda\\Tienda.Utilities\\Tienda.Utilities.csproj": {
+              "projectPath": "C:\\Users\\Cesaruc\\Desktop\\Proyectos para subir a github\\prueba\\Tienda\\Tienda.Utilities\\Tienda.Utilities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
