@@ -1,0 +1,15 @@
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Infrastructure\bin\Debug\net6.0\Tienda.Infrastructure.deps.json
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Infrastructure\bin\Debug\net6.0\Tienda.Infrastructure.dll
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Infrastructure\bin\Debug\net6.0\Tienda.Infrastructure.pdb
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Infrastructure\bin\Debug\net6.0\Tienda.Domain.dll
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Infrastructure\bin\Debug\net6.0\Tienda.Domain.pdb
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Infrastructure\obj\Debug\net6.0\Tienda.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Infrastructure\obj\Debug\net6.0\Tienda.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Infrastructure\obj\Debug\net6.0\Tienda.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Infrastructure\obj\Debug\net6.0\Tienda.Infrastructure.AssemblyInfo.cs
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Infrastructure\obj\Debug\net6.0\Tienda.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Infrastructure\obj\Debug\net6.0\Tienda.Infrastructure.csproj.CopyComplete
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Infrastructure\obj\Debug\net6.0\Tienda.Infrastructure.dll
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Infrastructure\obj\Debug\net6.0\refint\Tienda.Infrastructure.dll
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Infrastructure\obj\Debug\net6.0\Tienda.Infrastructure.pdb
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Infrastructure\obj\Debug\net6.0\ref\Tienda.Infrastructure.dll

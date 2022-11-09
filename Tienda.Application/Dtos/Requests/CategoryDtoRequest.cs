@@ -2,6 +2,6 @@
 {
     public class CategoryDtoRequest
     {
-        public string Name { get; set; } = null!;
+        public string? Name { get; set; } = null;
     }
 }

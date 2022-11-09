@@ -16,10 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Tienda.Application\Tienda.Application.csproj" />
     <ProjectReference Include="..\Tienda.Infrastructure\Tienda.Infrastructure.csproj" />
     <ProjectReference Include="..\Tienda.Utilities\Tienda.Utilities.csproj" />

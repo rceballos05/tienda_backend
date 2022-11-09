@@ -1,0 +1,12 @@
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Utilities\bin\Debug\net6.0\Tienda.Utilities.deps.json
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Utilities\bin\Debug\net6.0\Tienda.Utilities.dll
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Utilities\bin\Debug\net6.0\Tienda.Utilities.pdb
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Utilities\obj\Debug\net6.0\Tienda.Utilities.csproj.AssemblyReference.cache
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Utilities\obj\Debug\net6.0\Tienda.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Utilities\obj\Debug\net6.0\Tienda.Utilities.AssemblyInfoInputs.cache
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Utilities\obj\Debug\net6.0\Tienda.Utilities.AssemblyInfo.cs
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Utilities\obj\Debug\net6.0\Tienda.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Utilities\obj\Debug\net6.0\Tienda.Utilities.dll
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Utilities\obj\Debug\net6.0\refint\Tienda.Utilities.dll
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Utilities\obj\Debug\net6.0\Tienda.Utilities.pdb
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Utilities\obj\Debug\net6.0\ref\Tienda.Utilities.dll

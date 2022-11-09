@@ -1,0 +1,14 @@
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Domain\bin\Debug\net6.0\Tienda.Domain.deps.json
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Domain\bin\Debug\net6.0\Tienda.Domain.runtimeconfig.json
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Domain\bin\Debug\net6.0\Tienda.Domain.dll
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Domain\bin\Debug\net6.0\Tienda.Domain.pdb
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Domain\obj\Debug\net6.0\Tienda.Domain.csproj.AssemblyReference.cache
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Domain\obj\Debug\net6.0\Tienda.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Domain\obj\Debug\net6.0\Tienda.Domain.AssemblyInfoInputs.cache
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Domain\obj\Debug\net6.0\Tienda.Domain.AssemblyInfo.cs
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Domain\obj\Debug\net6.0\Tienda.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Domain\obj\Debug\net6.0\Tienda.Domain.dll
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Domain\obj\Debug\net6.0\refint\Tienda.Domain.dll
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Domain\obj\Debug\net6.0\Tienda.Domain.pdb
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Domain\obj\Debug\net6.0\Tienda.Domain.genruntimeconfig.cache
+C:\Users\Cesaruc\Desktop\Proyectos para subir a github\prueba\Tienda\Tienda.Domain\obj\Debug\net6.0\ref\Tienda.Domain.dll
